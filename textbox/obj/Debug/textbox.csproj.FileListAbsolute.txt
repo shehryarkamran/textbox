@@ -1,0 +1,10 @@
+D:\Visual programming\textbox\textbox\bin\Debug\textbox.exe.config
+D:\Visual programming\textbox\textbox\bin\Debug\textbox.exe
+D:\Visual programming\textbox\textbox\bin\Debug\textbox.pdb
+D:\Visual programming\textbox\textbox\obj\Debug\textbox.csprojResolveAssemblyReference.cache
+D:\Visual programming\textbox\textbox\obj\Debug\textbox.Form1.resources
+D:\Visual programming\textbox\textbox\obj\Debug\textbox.Properties.Resources.resources
+D:\Visual programming\textbox\textbox\obj\Debug\textbox.csproj.GenerateResource.cache
+D:\Visual programming\textbox\textbox\obj\Debug\textbox.csproj.CoreCompileInputs.cache
+D:\Visual programming\textbox\textbox\obj\Debug\textbox.exe
+D:\Visual programming\textbox\textbox\obj\Debug\textbox.pdb
